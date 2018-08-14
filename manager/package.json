@@ -1,5 +1,5 @@
 {
-  "name": "tech_stack",
+  "name": "manager",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "firebase": "^5.3.1",
+    "firebase": "^4.9.1",
     "react": "16.4.1",
     "react-native": "0.56.0",
     "react-redux": "^5.0.7",
